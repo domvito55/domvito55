@@ -40,7 +40,7 @@ I'm a software engineer with a unique background: started at NASA, worked in bui
 
 **Check out my deployed applications:**
 
-🔹 [Personal Website](http://studentweb.cencol.ca/mferre39/) - with few live works
+🔹 [Personal Website](http://studentweb.cencol.ca/mferre39/) - with few live works  
 🔹 [Skills Demo Backend](http://skillsdemo5.us-east-1.elasticbeanstalk.com/docs) - FastAPI + AWS  
 🔹 [Skills Demo Frontend](http://skillsdemo-bucket.s3-website-us-east-1.amazonaws.com/) - React  
 🔹 [SpotSale Marketplace](https://spotsalebackend.uk.r.appspot.com/) - Node.js + Angular + MongoDB
